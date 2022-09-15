@@ -2,11 +2,43 @@
     "sozler":[
         {
             "sozid":1,
-            "soz":"oldu"
+            "soz":"Senin almaya cesaret edemediğin riskleri alanlar, senin yaşamak istediğin hayatı yaşarlar."
         },
         {
-            "sozid":1,
-            "soz":"ikinci"
+            "sozid":2,
+            "soz":"Yüzüstü yere serilseniz bile, hala ileriye doğru hareket ediyorsunuzdur."
+        },
+        {
+            "sozid":3,
+            "soz":"Bırakma. Şimdi acı çek ve hayatının geri kalanını bir şampiyon olarak yaşa."
+        },
+        {
+            "sozid":4,
+            "soz":"Hazırlamayı başaramazsanız, başarısızlığa hazırlanıyorsunuz demektir!"
+        },
+        {
+            "sozid":5,
+            "soz":"Yüksek bir hedefe giderken, size karşı ola insanların üstesinden gelmeniz gerekir!"
+        },
+        {
+            "sozid":6,
+            "soz":"Başka bir hedef belirlemek ve yeni rüyalarını gerçekleştirmek için asla çok geç değil!"
+        },
+        {
+            "sozid":7,
+            "soz":"Ne istediğime karar verdim ve başarana kadar asla pes etmeyeceğim."
+        },
+        {
+            "sozid":8,
+            "soz":"Zaferin coşkusunu hissedebilmeniz için zorlukları kabul edin."
+        },
+        {
+            "sozid":9,
+            "soz":"Pes etmeyen kişiyi asla yenemezsin."
+        },
+        {
+            "sozid":10,
+            "soz":"İlk önce izlerler. Başarınca nefret ederler. Sonra da taklit ederler."
         }
     ]
 }
